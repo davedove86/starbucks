@@ -1,2 +1,3 @@
 # starbucks
-A Christmas Starbucks clone
+
+A Christmas Starbucks clone from Brad Traversy
